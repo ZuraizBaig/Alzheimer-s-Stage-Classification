@@ -1,6 +1,7 @@
 # Alzheimer's Classifier
 
 This project contains a deep learning model to classify Alzheimer's disease stages from brain MRI images.
+access the pre-print of the paper here: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013497.
 
 ## Features
 
